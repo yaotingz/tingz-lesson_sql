@@ -9,4 +9,10 @@ git log --oneline
 git add[full file name]
 git add *.file_sub_name
 git add .
+git commit -m 'message
+
+git add .
 git commit -m 'message'
+git push
+
+#DB BROWSER FOR SQLite
